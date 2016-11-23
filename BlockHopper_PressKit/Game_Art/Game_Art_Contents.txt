@@ -1,5 +1,0 @@
-/Game_Art Folder Contents
-
-"bit_cheer.png" and "bit_stand.png" are sprites of BlockHopper's playable character, Bit.
-
-The "block_*.png" images are the Blocks that the player uses to complete levels in-game. 
