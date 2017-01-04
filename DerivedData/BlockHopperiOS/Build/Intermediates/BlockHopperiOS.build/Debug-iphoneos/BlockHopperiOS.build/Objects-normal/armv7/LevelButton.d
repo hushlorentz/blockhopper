@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/hush/code/BlockHopperiOS/BlockHopperiOS/LevelButton.m \
-  /Users/hush/code/BlockHopperiOS/BlockHopperiOS/LevelButton.h
+  /Users/hush/code/iOS/BlockHopper/BlockHopperiOS/LevelButton.m \
+  /Users/hush/code/iOS/BlockHopper/BlockHopperiOS/LevelButton.h

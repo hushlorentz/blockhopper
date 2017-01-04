@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/hush/code/BlockHopperiOS/BlockHopperiOS/BlockAmountObject.m \
-  /Users/hush/code/BlockHopperiOS/BlockHopperiOS/BlockAmountObject.h
+  /Users/hush/code/iOS/BlockHopper/BlockHopperiOS/BlockAmountObject.m \
+  /Users/hush/code/iOS/BlockHopper/BlockHopperiOS/BlockAmountObject.h

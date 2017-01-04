@@ -1,3 +1,3 @@
-dependencies: /Users/hush/code/BlockHopperiOS/BlockHopperiOS/Utils.m \
-  /Users/hush/code/BlockHopperiOS/BlockHopperiOS/Utils.h \
-  /Users/hush/code/BlockHopperiOS/BlockHopperiOS/Vector2D.h
+dependencies: /Users/hush/code/iOS/BlockHopper/BlockHopperiOS/Utils.m \
+  /Users/hush/code/iOS/BlockHopper/BlockHopperiOS/Utils.h \
+  /Users/hush/code/iOS/BlockHopper/BlockHopperiOS/Vector2D.h

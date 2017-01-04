@@ -1,2 +1,2 @@
-dependencies: /Users/hush/code/BlockHopperiOS/BlockHopperiOS/EAGLView.m \
-  /Users/hush/code/BlockHopperiOS/BlockHopperiOS/EAGLView.h
+dependencies: /Users/hush/code/iOS/BlockHopper/BlockHopperiOS/EAGLView.m \
+  /Users/hush/code/iOS/BlockHopper/BlockHopperiOS/EAGLView.h

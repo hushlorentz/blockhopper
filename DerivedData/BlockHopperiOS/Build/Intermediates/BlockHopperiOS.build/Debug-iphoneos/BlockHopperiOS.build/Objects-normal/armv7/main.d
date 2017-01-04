@@ -1,1 +1,1 @@
-dependencies: /Users/hush/code/BlockHopperiOS/BlockHopperiOS/main.m
+dependencies: /Users/hush/code/iOS/BlockHopper/BlockHopperiOS/main.m
